@@ -1,4 +1,4 @@
-import { ProsConsResponse } from "../../interfaces/pros-cons.response";
+import { ProsConsResponse } from "../../../interfaces/pros-cons.response.ts";
 
 
 export const ProsConsUseCase = async (prompt: string) => {
